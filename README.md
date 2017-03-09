@@ -1,2 +1,2 @@
 # Procedural-Programming
-This repository contains both of my projects for my 2nd year procedural programming module in college.
+This repository contains both of my projects for my 2nd year procedural programming module in college. Both projects are written in C. The C file and a report describing the project is provided for each project. The snakes and ladders project was created in the first semester and the surveys project in the second semester. A strict brief describing the functionality for each project was given. Both projects successfully fulfilled their respective brief.
